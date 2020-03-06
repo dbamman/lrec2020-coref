@@ -1,6 +1,6 @@
 # lrec20202-coref
 
-Code and data to support Bamman, Lewke and Mansoor (2020), "A Dataset of Literary Coreference," (LREC).
+Code and data to support Bamman, Lewke and Mansoor (2020), "A Dataset of Literary Coreference" (LREC).
 
 ### Setup
 
